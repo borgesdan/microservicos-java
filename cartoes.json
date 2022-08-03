@@ -1,0 +1,48 @@
+{
+	"nome": "Bamerindus Bronze",
+	"bandeira": "VISA",
+	"renda": 1200.00,
+	"limiteBasico": 2000.00
+}
+
+{
+	"nome": "Bamerindus Prata",
+	"bandeira": "VISA",
+	"renda": 3000.00,
+	"limiteBasico": 5000.00
+}
+
+{
+	"nome": "Bamerindus Ouro",
+	"bandeira": "VISA",
+	"renda": 5000.00,
+	"limiteBasico": 10000.00
+}
+
+{
+	"nome": "Banespa UNIVERSITARIO",
+	"bandeira": "MASTERCARD",
+	"renda": 500.00,
+	"limiteBasico": 1000.00
+}
+
+{
+	"nome": "Banespa VIDA",
+	"bandeira": "MASTERCARD",
+	"renda": 15000.00,
+	"limiteBasico": 2000.00
+}
+
+{
+	"nome": "Excel Platinum",
+	"bandeira": "VISA",
+	"renda": 3500.00,
+	"limiteBasico": 5000.00
+}
+
+{
+	"nome": "Excel Premium",
+	"bandeira": "MASTERCARD",
+	"renda": 6000.00,
+	"limiteBasico": 7000.00
+}
